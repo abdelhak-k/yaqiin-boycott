@@ -97,11 +97,6 @@
         "name": "Plane",
         "country_code": "IN",
         "link": "https://plane.so/"
-      },
-      {
-        "name": "Tuleap",
-        "country_code": "XX",
-        "link": "https://tuleap.org/"
       }
     ]
   },
@@ -210,11 +205,6 @@
         "name": "Drupal",
         "country_code": "XX",
         "link": "https://drupal.org/project/drupal/"
-      },
-      {
-        "name": "Wuilt",
-        "country_code": "EG",
-        "link": "https://wuilt.com/"
       }
     ]
   },
